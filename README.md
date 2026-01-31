@@ -1,4 +1,4 @@
-## About @Dev-Obele
+flaw About @Dev-Obele
 
 **Hi, I'm @Dev-Obele!**
 
@@ -30,7 +30,7 @@
 
 **⚡ Fun fact: ...**
 
-I began coding because I wanted to fix a flaw in an open-source project I was passionate about that was interfering with its functionality. Fixing that bug was my first code contribution, and it sparked my enthusiasm for open source development!
+I began coding because I wanted to fix a bug in an open-source project I was passionate about. Fixing that bug was my first code contribution, and it sparked my enthusiasm for open source development!
 <!---
 Dev-Obele/Dev-Obele is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
